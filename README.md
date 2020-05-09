@@ -1,3 +1,4 @@
 # 3D Solinoid animation in matplotlib
+![](https://medium.com/@abdullahalmasud.buet/3d-solinoid-animation-in-matplotlib-c08aceae0e10)
 Its just an example script for 3D animation generation using matplotlib.
-![](https://github.com/abdullah-al-masud/3D-Solinoid-animation-in-matplotlib/blob/master/solinoid(multiple)_animation.mp4)
+Detailed discussion can be found in [medium post](https://medium.com/@abdullahalmasud.buet/3d-solinoid-animation-in-matplotlib-c08aceae0e10)
